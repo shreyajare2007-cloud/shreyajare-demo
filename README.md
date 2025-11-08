@@ -1,4 +1,4 @@
 # shreyajare-demo
-This is my first Git Repository.\N
-<bra>
+This is my first Git Repository.
+<br>
 Author - Shreya Jare
